@@ -21,7 +21,7 @@ function App() {
           <Login  />
         </Authicate>
       </Route>
-      <Route path="*" render={() => "404 NOT FOUND"} />
+//       <Route path="*" render={() => "404 NOT FOUND"} />
     </Switch>
     </BrowserRouter>
   );
